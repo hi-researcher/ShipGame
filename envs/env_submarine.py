@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-# author:Nolan
+# author:Lee
 # datetime:2021/12/4 17:10
 # software: PyCharm
 # Version: v0.1.1
-
+# The code of "Search submarine": environment module
 
 import logging
 import random
