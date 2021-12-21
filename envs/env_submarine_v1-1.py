@@ -12,6 +12,7 @@ import gym
 
 logger = logging.getLogger(__name__)
 
+
 class EnvSubmarine:
     def __init__(self):
         # ---------init state and action--------- #
@@ -52,7 +53,6 @@ class EnvSubmarine:
 
     def reward(self):
         pass
-
 
     def render(self):
         pass
