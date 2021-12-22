@@ -12,7 +12,7 @@
 
 ## 开发配置
 
-the virtualenv in ubuntu 18 (dell)  is "xxx_E2".
+the virtualenv in **ubuntu 18** (dell)  is "xxx_E2".
 
 本场景主要是针对无人反潜机，所建立的仿真环境，并采用强化学习算法进行求解
 
@@ -39,3 +39,9 @@ reward(s, a, s')
 ### 2 仿真环境版本介绍
 
 - v1：基于迷宫搜索修改的仿真环境
+- v2：为每个海域添加干扰信号
+
+
+
+## 部署配置
+
